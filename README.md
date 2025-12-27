@@ -4,4 +4,4 @@ I'm Jasmine Watissee, I'm currently a student at Carnegie Mellon University foll
 
 You can reach me at *jwatisse@andrew.cmu.edu*
 
-You can also learn more about me on my [LinkedIn profile](https://www.linkedin.com/in/jasmine-watissee-0b8371237).
+You can also learn more about me on my [LinkedIn profile](https://www.linkedin.com/in/jasmine-watissee).
