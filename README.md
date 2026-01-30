@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm Jasmine Watissee, I'm currently a student at Carnegie Mellon University following a Master of Science in Information Security. Here are some of my class projects from my Bachelor and my Master. I am mainly interested about the field of cyber security.
+I'm **Jasmine Watissee**, a graduate student at Carnegie Mellon University pursuing a Master of Science in Information Security. 
+
+This GitHub profile showcases my academic and personal projects from both my Bachelor’s and Master’s studies.  
+Many repositories are kept private to comply with academic integrity requirements, feel free to reach out if you’d like access or more details.
 
 You can reach me at *jwatisse@andrew.cmu.edu*
 
